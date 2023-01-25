@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/Gq88oTO.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/iw5ug5X" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Created a virtual machine in Azure and installed Active Directory Domain Services onto that virtual machine.
