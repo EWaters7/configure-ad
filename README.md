@@ -24,8 +24,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Installed Active Directory Domain Services
-- Step 2
+- Installed Active Directory Domain Services onto a virtual machine "Domain Controller, DC-1"
+- Joined a different virtual machine "Client 1" to Domain Controller, DC-1's private IP address
 - Step 3
 - Step 4
 
@@ -43,7 +43,7 @@ Created a virtual machine in Azure and installed Active Directory Domain Service
 <img src="https://i.imgur.com/m46DKfg.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Azure portal I joined the Client-1 virtual machine to the Domain Controls virtual machines server with DC-1's private IP address.
 </p>
 <br />
 
