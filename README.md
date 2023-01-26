@@ -26,8 +26,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Installed Active Directory Domain Services onto a virtual machine "Domain Controller, DC-1"
 - Joined a different virtual machine "Client 1" to Domain Controller, DC-1's private IP address
-- Step 3
-- Step 4
+- Created and added accounts in Powershell ISE
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -51,6 +50,6 @@ In the Azure portal I joined the Client-1 virtual machine to the Domain Controls
 <img src="https://i.imgur.com/rRifK51.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As an Administrator in Powershell ISE, I created and added 10,000 accounts with the ability to log into the network.
 </p>
 <br />
